@@ -1,0 +1,4 @@
+after storing text in String text
+first we extract characters and their frequencies and put them in a hash map<char, int> 
+
+then we form our priority queue with data of hashmap
